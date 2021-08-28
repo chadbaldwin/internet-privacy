@@ -47,3 +47,5 @@ https://chadbaldwin.net/personal/2021-06-07-privacy-public-pii.html
   * Don't use a banner photo (comments are hidden, but not who likes it)
 * Using a password manager
 * Set up 2FA on everything
+* Social media
+  * Don't answer questions that reveal information about you, like "phone number growing up", "favorite food", "first car", etc.

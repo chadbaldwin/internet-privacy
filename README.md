@@ -24,10 +24,14 @@ https://chadbaldwin.net/personal/2021-06-07-privacy-public-pii.html
   * This is done at the phone level. The carrier has your default pin and unblock code, but you can optionally change it on the phone itself
 * Credit report freeze
   * This can be done online for each of the 3 main credit unions. You can lock your credit report and prevent institutions from performing a hard inquiry
-* Privacy browser extensions
+* Popular privacy browser extensions
   * [uBlock Origin]
     * Chrome - https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
     * FireFox - https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+  * HTTPS Everywhere
+    * Chrome - https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp
+  * NoScript
+    * https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm
 * Stop using your ISP's DNS server
   * Cloudflare DNS - https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/
   * Google Public DNS - https://developers.google.com/speed/public-dns
@@ -49,3 +53,5 @@ https://chadbaldwin.net/personal/2021-06-07-privacy-public-pii.html
 * Set up 2FA on everything
 * Social media
   * Don't answer questions that reveal information about you, like "phone number growing up", "favorite food", "first car", etc.
+* What "private browsing" actually means
+* What VPN's are and when/why you should use them

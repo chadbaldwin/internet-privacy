@@ -55,3 +55,4 @@ https://chadbaldwin.net/personal/2021-06-07-privacy-public-pii.html
   * Don't answer questions that reveal information about you, like "phone number growing up", "favorite food", "first car", etc.
 * What "private browsing" actually means
 * What VPN's are and when/why you should use them
+* Privacy focused search engines - https://duckduckgo.com/

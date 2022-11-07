@@ -1,4 +1,4 @@
-### PII Opt Out Links
+## PII Opt Out Links
 
 People should know that these sites publicly advertise their personal information.
 
@@ -6,38 +6,41 @@ If you live in California, you should use the CCPA links. If you don't live in C
 
 If you'd like to read more, please see my blog post that covers some of this:
 
-https://chadbaldwin.net/personal/2021-06-07-privacy-public-pii.html
+<https://chadbaldwin.net/personal/2021-06-07-privacy-public-pii.html>
 
 ---
 
-### Other Privacy notes / Future blog topics
+## Other Privacy notes / links
 
 * Browser Ad Opt-Out
-  * <https://optout.aboutads.info/>
+  * <https://optout.aboutads.info>
 * NAI Consumer Opt-Out
-   * <https://optout.networkadvertising.org/>
+  * <https://optout.networkadvertising.org>
 * Credit Report Pre-Screen Opt-Out
-  * <https://www.optoutprescreen.com/>
+  * <https://www.optoutprescreen.com>
 * EFF - Do Not Track info
   * <https://www.eff.org/issues/do-not-track>
 * SIM Card Lock/Pin
   * This is done at the phone level. The carrier has your default pin and unblock code, but you can optionally change it on the phone itself
 * Credit report freeze
   * This can be done online for each of the 3 main credit unions. You can lock your credit report and prevent institutions from performing a hard inquiry
+  * TransUnion - <https://www.transunion.com/credit-freeze>
+  * Experian - <https://www.experian.com/freeze>
+  * Equifax - <https://www.equifax.com/personal/credit-report-services/credit-freeze>
 * Popular privacy browser extensions
   * [uBlock Origin]
-    * Chrome - https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
-    * FireFox - https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+    * Chrome - <https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en>
+    * FireFox - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/>
   * HTTPS Everywhere
-    * Chrome - https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp
+    * Chrome - <https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp>
   * NoScript
-    * https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm
+    * <https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm>
 * Stop using your ISP's DNS server
-  * Cloudflare DNS - https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/
-  * Google Public DNS - https://developers.google.com/speed/public-dns
-  * OpenDNS - https://www.opendns.com/
-  * Pi-Hole - https://pi-hole.net/
-  * Unbound DNS Resolver - <https://www.nlnetlabs.nl/projects/unbound/about/>
+  * Cloudflare DNS - <https://www.cloudflare.com/learning/dns/what-is-1.1.1.1>
+  * Google Public DNS - <https://developers.google.com/speed/public-dns>
+  * OpenDNS - <https://www.opendns.com>
+  * Pi-Hole - <https://pi-hole.net>
+  * Unbound DNS Resolver - <https://www.nlnetlabs.nl/projects/unbound/about>
   * DNS over HTTPS
 * Securing your FB profile
   * Hide everything public
@@ -58,3 +61,4 @@ https://chadbaldwin.net/personal/2021-06-07-privacy-public-pii.html
 * Privacy focused search engines - <https://duckduckgo.com/>
 * Misc Opt-out links:
   * Spectrum - <https://www.spectrum.com/policies/your-privacy-rights-opt-out>
+    * Opt out from mail, email, door-to-door, internet ads, tv ads, etc

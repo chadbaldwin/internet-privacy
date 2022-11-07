@@ -37,7 +37,7 @@ https://chadbaldwin.net/personal/2021-06-07-privacy-public-pii.html
   * Google Public DNS - https://developers.google.com/speed/public-dns
   * OpenDNS - https://www.opendns.com/
   * Pi-Hole - https://pi-hole.net/
-  * Unbound DNS Resolver - https://www.nlnetlabs.nl/projects/unbound/about/
+  * Unbound DNS Resolver - <https://www.nlnetlabs.nl/projects/unbound/about/>
   * DNS over HTTPS
 * Securing your FB profile
   * Hide everything public
@@ -55,4 +55,6 @@ https://chadbaldwin.net/personal/2021-06-07-privacy-public-pii.html
   * Don't answer questions that reveal information about you, like "phone number growing up", "favorite food", "first car", etc.
 * What "private browsing" actually means
 * What VPN's are and when/why you should use them
-* Privacy focused search engines - https://duckduckgo.com/
+* Privacy focused search engines - <https://duckduckgo.com/>
+* Misc Opt-out links:
+  * Spectrum - <https://www.spectrum.com/policies/your-privacy-rights-opt-out>

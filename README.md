@@ -62,3 +62,5 @@ If you'd like to read more, please see my blog post that covers some of this:
 * Misc Opt-out links:
   * Spectrum - <https://www.spectrum.com/policies/your-privacy-rights-opt-out>
     * Opt out from mail, email, door-to-door, internet ads, tv ads, etc
+* Unclaimed property
+  * If you have unclaimed property (which a majority of people do) someone can look up your home address, or your previous home address.
